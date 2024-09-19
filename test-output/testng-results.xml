@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-18T11:04:24 IST" name="Default suite" finished-at="2024-09-18T11:04:37 IST" duration-ms="12861">
+    <groups>
+    </groups>
+    <test started-at="2024-09-18T11:04:24 IST" name="Default test" finished-at="2024-09-18T11:04:37 IST" duration-ms="12861">
+      <class name="org.upload_file.using_sendkey_methods">
+        <test-method is-config="true" signature="s_browser()[pri:0, instance:org.upload_file.using_sendkey_methods@6379eb]" started-at="2024-09-18T11:04:24 IST" name="s_browser" finished-at="2024-09-18T11:04:27 IST" duration-ms="3118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s_browser -->
+        <test-method signature="tc1()[pri:0, instance:org.upload_file.using_sendkey_methods@6379eb]" started-at="2024-09-18T11:04:27 IST" name="tc1" finished-at="2024-09-18T11:04:32 IST" duration-ms="4796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:org.upload_file.using_sendkey_methods@6379eb]" started-at="2024-09-18T11:04:32 IST" name="tc2" finished-at="2024-09-18T11:04:37 IST" duration-ms="4912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.upload_file.using_sendkey_methods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
